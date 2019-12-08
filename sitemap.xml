@@ -3,16 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://idsintehittapa.github.io/portfolio/work2/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://idsintehittapa.github.io/portfolio/work3/</loc>
-    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://idsintehittapa.github.io/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
@@ -28,21 +18,43 @@
   </url>
   
   <url>
-    <loc>https://idsintehittapa.github.io/portfolio/</loc>
+    <loc>https://idsintehittapa.github.io/2016/11/05/name-of-the-work-3/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://idsintehittapa.github.io/portfolio/work1/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <loc>https://idsintehittapa.github.io/posts/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://idsintehittapa.github.io/categories/</loc>
+    <loc>https://idsintehittapa.github.io/tags/tag1/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://idsintehittapa.github.io/tags/tag3/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://idsintehittapa.github.io/tags/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://idsintehittapa.github.io/2016/11/05/name-of-the-work-2/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://idsintehittapa.github.io/tags/tag2/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://idsintehittapa.github.io/2016/11/05/name-of-the-work-1/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
 </urlset>

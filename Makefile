@@ -9,7 +9,7 @@ endif
 HUGO_VERSION=0.60.1
 HUGO=./_src/bin/hugo_$(HUGO_VERSION)_$(HUGO_OS)
 HUGO_OPTS=--source _src --destination ../
-HUGO_TEST_OPTS=-D -E -F
+HUGO_TEST_OPTS=
 
 ifneq ($(BIND), )
 HUGO_OPTS:=$(HUGO_OPTS) --bind $(BIND)
@@ -32,5 +32,4 @@ clean:
 		-name '.*' -or \
 		-name '_src' -or \
 		-name 'Makefile' -or \
-		-name 'LICENSE' \
 		\) -print0 | xargs -0  -I {} rm -rf {}
