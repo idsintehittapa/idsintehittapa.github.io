@@ -13,7 +13,7 @@ tags:
 Analyzing gender within STEM subjects has increased a lot.. Or at least people talk a looot about it! 
 <!--more-->
 
-![ftwd][1]
+![STEM][1]
 
 It made me curious on what has actually happen - what are the trends and how frequent are gender keywords in these studies for real?
 
@@ -31,4 +31,4 @@ My search on these pages was:
 It is interesting to see that underrepresentation and diversity are topics that have interested researchers during these 15 years. And also, that  feminist research, masculinity, intersectionality, trans and LGB have been examined since 2011.
 
 
-[1]: /img/posts/STEM.png
+[1]: /img/posts/stem.png
