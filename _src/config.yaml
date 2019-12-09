@@ -17,10 +17,9 @@ params:
     # Use custom.css for your custom styling
     style: "default"
     description: "Describe your website"
-    copyright: "&copy;2016 Your name or company"
+    copyright: "&copy;2019 Johanna Blom"
     sidebarAbout: [
-        "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-        "Originally from Toronto, currently based in London."
+        "Data-I-Guess is my personal project where I explore, analyze, and visualize open access data. I visualize data that I find funny| interetsting| disturbing (usually related to weird things people do since I am into sociology) and while doing so I get better at coding. I use mostly Python but sometimes R.",   
     ]
 
     email: "jblom15@gmail.com"
@@ -29,11 +28,11 @@ params:
         # facebook     : "full page or profile url in facebook"
         # googleplus   : "full profile url in googleplus"
         email        : "jblom15@gmail"
-        twitter      : "full profile url in twitter"
-        linkedin     : "full profile url in linkedin"
+        twitter      : "https://twitter.com/idsintehittapa"
+        linkedin     : "https://www.linkedin.com/in/johanna-blom-2419a181"
         # stackoverflow: "full profile url in stackoverflow"
-        instagram    : "full profile url in instagram"
-        github       : "idsintehittapa"
+        #instagram    : "full profile url in instagram"
+        github       : "ihttps://github.com/idsintehittapa"
         # youtube      : "full profile url in youtube"
         # whatsapp     : "wa.me service link"
 

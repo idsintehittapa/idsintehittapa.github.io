@@ -28,8 +28,8 @@ gen: clean
 
 .PHONY: clean
 clean:
-	find -maxdepth 1 -not \(\
+	find . -maxdepth 1 -not \(\
 		-name '.*' -or \
 		-name '_src' -or \
-		-name 'Makefile' -or \
+		-name 'Makefile' \
 		\) -print0 | xargs -0  -I {} rm -rf {}

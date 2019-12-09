@@ -3,58 +3,153 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://idsintehittapa.github.io/contact/</loc>
-    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://idsintehittapa.github.io/about/</loc>
-    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+    <loc>https://idsintehittapa.github.io/tags/bar-chart/</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://idsintehittapa.github.io/</loc>
-    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://idsintehittapa.github.io/2016/11/05/name-of-the-work-3/</loc>
-    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+    <loc>https://idsintehittapa.github.io/2019/11/15/dying-to-win/</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://idsintehittapa.github.io/tags/matplotlib/</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://idsintehittapa.github.io/tags/news-article/</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://idsintehittapa.github.io/tags/pandas/</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://idsintehittapa.github.io/posts/</loc>
-    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://idsintehittapa.github.io/tags/tag1/</loc>
-    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://idsintehittapa.github.io/tags/tag3/</loc>
-    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+    <loc>https://idsintehittapa.github.io/tags/python/</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://idsintehittapa.github.io/tags/</loc>
-    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://idsintehittapa.github.io/2016/11/05/name-of-the-work-2/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <loc>https://idsintehittapa.github.io/tags/culture/</loc>
+    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://idsintehittapa.github.io/tags/tag2/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <loc>https://idsintehittapa.github.io/tags/gephi/</loc>
+    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://idsintehittapa.github.io/2016/11/05/name-of-the-work-1/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <loc>https://idsintehittapa.github.io/2019/11/12/got-the-deadliest-path-to-fame/</loc>
+    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://idsintehittapa.github.io/tags/social-network/</loc>
+    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://idsintehittapa.github.io/2019/11/09/all-hail-the-labrador/</loc>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://idsintehittapa.github.io/tags/bump-chart/</loc>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://idsintehittapa.github.io/tags/makeovermonday/</loc>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://idsintehittapa.github.io/tags/public-data/</loc>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://idsintehittapa.github.io/tags/r/</loc>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://idsintehittapa.github.io/2019/11/08/chastity-and-the-city/</loc>
+    <lastmod>2019-11-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://idsintehittapa.github.io/tags/lollipop-chart/</loc>
+    <lastmod>2019-11-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://idsintehittapa.github.io/tags/heatmap/</loc>
+    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://idsintehittapa.github.io/tags/stem/</loc>
+    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://idsintehittapa.github.io/2019/11/07/the-rise-of-gender-in-stem/</loc>
+    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://idsintehittapa.github.io/2019/11/06/fear-the-walking-men/</loc>
+    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://idsintehittapa.github.io/tags/line-plot/</loc>
+    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://idsintehittapa.github.io/tags/seaborn/</loc>
+    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://idsintehittapa.github.io/about/</loc>
+    <lastmod>2019-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://idsintehittapa.github.io/2019/11/05/fear-the-walking-dead-men/</loc>
+    <lastmod>2019-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://idsintehittapa.github.io/tags/histogram/</loc>
+    <lastmod>2019-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://idsintehittapa.github.io/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
   
 </urlset>
