@@ -1,6 +1,6 @@
 ---
 showonlyimage: false
-image: "img/posts/ftwd.png"
+image: "img/posts/ftwdm.png"
 date: "2019-11-05"
 title: "Fear the walking (dead) men"
 tags:
@@ -27,4 +27,4 @@ Btw, it seems like the **leading cause of death** is caused by humans and not wa
 * [Data found here](https://walkingdead.fandom.com/wiki/List_of_Deaths_(Fear))
 
 
-[1]: /img/posts/ftwd.png
+[1]: /img/posts/ftwdm.png
