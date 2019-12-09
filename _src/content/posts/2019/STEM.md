@@ -1,6 +1,6 @@
 ---
 showonlyimage: false
-image: "img/posts/STEM.png"
+image: "img/posts/stem.png"
 date: "2019-11-07"
 title: "The rise of 'gender' in STEM"
 tags:
