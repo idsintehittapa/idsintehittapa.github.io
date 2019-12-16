@@ -31,7 +31,7 @@ SWEDISH
 - Kuk - "cock"
 - Fan - "the devil"
 
-Please send me your top 15 profanity words/phrases! I'm really want to try out my hypothesis. 
+Please send me your top 15 profanity words/phrases! I really want to try out my hypothesis. 
 
 Thanks a lot!
 
