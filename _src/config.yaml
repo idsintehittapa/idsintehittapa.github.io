@@ -43,6 +43,8 @@ params:
           home: true
         - name: "about"
           url: "about/"
+        - name: "the profanity project"
+          url: "profanity_project/"
         - name: "contact"
           url: "contact/"
         - name: "tags"

@@ -7,8 +7,14 @@ My name is Johanna Blom, I am based in Sweden, and I like data as a concept (i.e
 
 Professionally, I want to combine my sociological and programming skills. I am looking and open for challenges and new opportunities. Drop me an email or contact me in another suitable way if you think we could work together!
 
+
+- Download my [CV][2] :)
+---
+
 ![This is me][1]
 
+---
 
 
 [1]: /img/j_small.jpg
+[2]: /johanna_blom_cv.pdf
