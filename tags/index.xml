@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Data I Guess</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://idsintehittapa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,18 +14,45 @@
     <item>
       <title>bar chart</title>
       <link>https://idsintehittapa.github.io/tags/bar-chart/</link>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://idsintehittapa.github.io/tags/bar-chart/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>culture</title>
+      <link>https://idsintehittapa.github.io/tags/culture/</link>
+      <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://idsintehittapa.github.io/tags/culture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>matplotlib</title>
       <link>https://idsintehittapa.github.io/tags/matplotlib/</link>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://idsintehittapa.github.io/tags/matplotlib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pandas</title>
+      <link>https://idsintehittapa.github.io/tags/pandas/</link>
+      <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://idsintehittapa.github.io/tags/pandas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://idsintehittapa.github.io/tags/python/</link>
+      <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://idsintehittapa.github.io/tags/python/</guid>
       <description></description>
     </item>
     
@@ -35,33 +62,6 @@
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://idsintehittapa.github.io/tags/news-article/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pandas</title>
-      <link>https://idsintehittapa.github.io/tags/pandas/</link>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://idsintehittapa.github.io/tags/pandas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>python</title>
-      <link>https://idsintehittapa.github.io/tags/python/</link>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://idsintehittapa.github.io/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>culture</title>
-      <link>https://idsintehittapa.github.io/tags/culture/</link>
-      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://idsintehittapa.github.io/tags/culture/</guid>
       <description></description>
     </item>
     
