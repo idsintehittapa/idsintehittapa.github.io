@@ -1,6 +1,6 @@
 ---
 showonlyimage: false
-image: "img/posts/profanityproject.png"
+image: "img/posts/profanityproject200223.png"
 date: "2020-01-26"
 title: "The curse of gender equality"
 tags:
@@ -43,4 +43,4 @@ Is your language not represented? Or do you feel that this is completely wrong a
 
 
 
-[1]: /img/posts/profanityproject.png
+[1]: /img/posts/profanityproject200223.png
