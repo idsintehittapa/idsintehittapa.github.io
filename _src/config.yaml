@@ -55,6 +55,12 @@ params:
     dateformNum    : "2006-01-02"
     dateformNumTime: "2006-01-02 15:04 -0700"
 
+outputFormats:
+  Reveal:
+    baseName: "index"
+    mediaType: "text/html"
+    isHTML: true
+
 taxonomies:
     tag: tags
 

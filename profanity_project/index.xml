@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Profanity Project on Data I Guess</title>
-    <link>https://idsintehittapa.github.io/profanity_project/</link>
+    <link>http://localhost:1313/profanity_project/</link>
     <description>Recent content in The Profanity Project on Data I Guess</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Dec 2019 13:00:25 +0530</lastBuildDate>
     
-	<atom:link href="https://idsintehittapa.github.io/profanity_project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/profanity_project/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
