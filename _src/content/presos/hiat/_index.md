@@ -17,7 +17,7 @@ reveal_hugo:
 
 
 
-{{< span class="small" >}}This  wepbage was created as part of the Hyper Island Applicatio  Task 2020{{< /span >}} 
+{{< span class="small" >}}This  wepbage was created as part of the Hyper Island Application  Task 2020{{< /span >}} 
 
 ---
 
