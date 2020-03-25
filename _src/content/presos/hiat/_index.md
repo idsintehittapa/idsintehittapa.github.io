@@ -27,7 +27,7 @@ reveal_hugo:
 
 ---
 
-{{< span class="red" >}}**Period poverty** {{< /span >}}  is the term used to describe a lack of access to {{< span class="red" >}}**menstrual hygiene** {{< /span >}} products and education, toilets, hand washing facilities, and/or waste management.
+{{< span class="red" >}}**Period poverty** {{< /span >}}  is the term used to describe a lack of access to {{< span class="red" >}}**menstrual hygiene** {{< /span >}} products and education, toilets, hand washing facilities, and/or waste management
 
 {{< span class="source" >}}_[globalcitizen.org](https://www.globalcitizen.org/en/conten/period-poverty-everything-you-need-to-know/)_{{< /span >}} 
 
