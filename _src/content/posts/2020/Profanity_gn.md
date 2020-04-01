@@ -90,7 +90,7 @@ Lastly, some (6 in total) are counted twice since they fit both themes. Like, **
 I recon you see the pattern :) 
 
 #### Curious about the dictionary? 
-Find the dictionary and the code [here](https://idsintehittapa.github.io/profanity_project/). :)
+Find the dictionary and the code [here](https://github.com/idsintehittapa/data-i-guess/tree/master/profanity_project). :)
 
 
 #### Want to contribute?
