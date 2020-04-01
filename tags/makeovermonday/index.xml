@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>makeovermonday on Data I Guess</title>
-    <link>http://localhost:1313/tags/makeovermonday/</link>
+    <link>https://idsintehittapa.github.io/tags/makeovermonday/</link>
     <description>Recent content in makeovermonday on Data I Guess</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/makeovermonday/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://idsintehittapa.github.io/tags/makeovermonday/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>All hail the labrador!</title>
-      <link>http://localhost:1313/2019/11/09/all-hail-the-labrador/</link>
+      <link>https://idsintehittapa.github.io/2019/11/09/all-hail-the-labrador/</link>
       <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2019/11/09/all-hail-the-labrador/</guid>
+      <guid>https://idsintehittapa.github.io/2019/11/09/all-hail-the-labrador/</guid>
       <description>&lt;p&gt;A few week back the theme of &lt;a href=&#34;https://www.makeovermonday.co.uk&#34;&gt;MakeoverMonday&lt;/a&gt; was top 10 chocolate bars. When scouting how to represent this the best I found someone who had made a bump chart over America’s kennel club most popular breeds - since I am a dog person I got curious: how does it look in Sweden?.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Chastity and the City</title>
-      <link>http://localhost:1313/2019/11/08/chastity-and-the-city/</link>
+      <link>https://idsintehittapa.github.io/2019/11/08/chastity-and-the-city/</link>
       <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2019/11/08/chastity-and-the-city/</guid>
+      <guid>https://idsintehittapa.github.io/2019/11/08/chastity-and-the-city/</guid>
       <description>&lt;p&gt;A few weeks back I participated in the online conference &lt;strong&gt;Demystifying Data Science 2019&lt;/strong&gt; and heard of &lt;a href=&#34;https://www.makeovermonday.co.uk&#34;&gt;MakeoverMonday&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     

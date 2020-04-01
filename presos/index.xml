@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Presos on Data I Guess</title>
-    <link>http://localhost:1313/presos/</link>
+    <link>https://idsintehittapa.github.io/presos/</link>
     <description>Recent content in Presos on Data I Guess</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://localhost:1313/presos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://idsintehittapa.github.io/presos/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

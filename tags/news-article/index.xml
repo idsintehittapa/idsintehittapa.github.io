@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>news article on Data I Guess</title>
-    <link>http://localhost:1313/tags/news-article/</link>
+    <link>https://idsintehittapa.github.io/tags/news-article/</link>
     <description>Recent content in news article on Data I Guess</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/news-article/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://idsintehittapa.github.io/tags/news-article/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dying to win!</title>
-      <link>http://localhost:1313/2019/11/15/dying-to-win/</link>
+      <link>https://idsintehittapa.github.io/2019/11/15/dying-to-win/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2019/11/15/dying-to-win/</guid>
+      <guid>https://idsintehittapa.github.io/2019/11/15/dying-to-win/</guid>
       <description>&lt;p&gt;Every year we get the opportunity to vote on people who ”significantly improve the gene pool by eliminating themselves from the human race in an obviously stupid way!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Chastity and the City</title>
-      <link>http://localhost:1313/2019/11/08/chastity-and-the-city/</link>
+      <link>https://idsintehittapa.github.io/2019/11/08/chastity-and-the-city/</link>
       <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2019/11/08/chastity-and-the-city/</guid>
+      <guid>https://idsintehittapa.github.io/2019/11/08/chastity-and-the-city/</guid>
       <description>&lt;p&gt;A few weeks back I participated in the online conference &lt;strong&gt;Demystifying Data Science 2019&lt;/strong&gt; and heard of &lt;a href=&#34;https://www.makeovermonday.co.uk&#34;&gt;MakeoverMonday&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
