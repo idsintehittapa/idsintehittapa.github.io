@@ -38,7 +38,7 @@ Even in developed countries, such as Sweden, {{< span class="red" >}} **period p
 
 ---
 
-On average, {{< span class="red" >}} **menstruators** {{< /span >}}  endure _**55 000**_ hours of their live {{< span class="red" >}} **menstruating** {{< /span >}}, use _**10 000**_ hygiene products, and spend _**63 000**_ SEK
+On average, {{< span class="red" >}} **menstruators** {{< /span >}}  endure _**55 000**_ hours of their lives {{< span class="red" >}} **menstruating** {{< /span >}}, use _**10 000**_ hygiene products, and spend _**63 000**_ SEK
 
 ---
 
