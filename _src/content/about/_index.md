@@ -17,4 +17,4 @@ Professionally, I want to combine my sociological and programming skills. I am l
 
 
 [1]: /img/j_small.jpg
-[2]: /johanna_blom_cv.pdf
+[2]: /Resume_JohannaBlom.pdf
